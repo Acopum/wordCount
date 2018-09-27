@@ -1,5 +1,7 @@
 # wordCount
 
+After compiling, running EXE file created from CPP opens program in command prompt. User inputs filename and target words to search file for. Output is each target word specified, along with number of occurences in target file.
+
 ## Purpose
 
 To count the occurences of a specified string in a simple text file using a C++ program.
